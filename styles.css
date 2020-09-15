@@ -1,0 +1,21 @@
+h3{
+    font : message-box;
+}
+
+h1{
+    font: oblique;
+    background: #70bfe7;
+    color : white;
+    margin : 0px;
+    padding : 60px;
+    font-size : 100px;
+}
+
+br{
+    background: aquamarine;
+}
+
+hover img
+{
+  opacity : 0.33
+}
